@@ -1,0 +1,82 @@
+[
+  {
+    "id": "cat",
+    "title": "File:Tabby cat with blue eyes-3336579.jpg",
+    "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Tabby_cat_with_blue_eyes-3336579.jpg/960px-Tabby_cat_with_blue_eyes-3336579.jpg",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Tabby_cat_with_blue_eyes-3336579.jpg",
+    "artist": "AdinaVoicu",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "file": "cat.jpg"
+  },
+  {
+    "id": "dog",
+    "title": "File:Dülmen, Hausdülmen, Golden Retriever -- 2022 -- 5945.jpg",
+    "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/D%C3%BClmen%2C_Hausd%C3%BClmen%2C_Golden_Retriever_--_2022_--_5945.jpg/960px-D%C3%BClmen%2C_Hausd%C3%BClmen%2C_Golden_Retriever_--_2022_--_5945.jpg",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:D%C3%BClmen,_Hausd%C3%BClmen,_Golden_Retriever_--_2022_--_5945.jpg",
+    "artist": "Dietmar Rabich",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "file": "dog.jpg"
+  },
+  {
+    "id": "car",
+    "title": "File:VW Golf R, Berlin (1X7A3939).jpg",
+    "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/VW_Golf_R%2C_Berlin_%281X7A3939%29.jpg/960px-VW_Golf_R%2C_Berlin_%281X7A3939%29.jpg",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:VW_Golf_R,_Berlin_(1X7A3939).jpg",
+    "artist": "Matti Blume",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "file": "car.jpg"
+  },
+  {
+    "id": "airplane",
+    "title": "File:Qantas Boeing 747-400 VH-OJU over Starbeyevo Kustov.jpg",
+    "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Qantas_Boeing_747-400_VH-OJU_over_Starbeyevo_Kustov.jpg/960px-Qantas_Boeing_747-400_VH-OJU_over_Starbeyevo_Kustov.jpg",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Qantas_Boeing_747-400_VH-OJU_over_Starbeyevo_Kustov.jpg",
+    "artist": "Sergey Kustov",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "file": "airplane.jpg"
+  },
+  {
+    "id": "apple",
+    "title": "File:Red Apple.jpg",
+    "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Red_Apple.jpg/960px-Red_Apple.jpg",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Red_Apple.jpg",
+    "artist": "Abhijit Tembhekar from Mumbai, India",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "file": "apple.jpg"
+  },
+  {
+    "id": "pizza",
+    "title": "File:Pizza napolitana.JPG",
+    "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Pizza_napolitana.JPG/960px-Pizza_napolitana.JPG",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Pizza_napolitana.JPG",
+    "artist": "Matieu Castel",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "file": "pizza.jpg"
+  },
+  {
+    "id": "guitar",
+    "title": "File:Man playing an acoustic brazilian guitar (Violão) on Marco Zero Square, Refice, Pernambuco, Brazil.jpg",
+    "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Man_playing_an_acoustic_brazilian_guitar_%28Viol%C3%A3o%29_on_Marco_Zero_Square%2C_Refice%2C_Pernambuco%2C_Brazil.jpg/960px-Man_playing_an_acoustic_brazilian_guitar_%28Viol%C3%A3o%29_on_Marco_Zero_Square%2C_Refice%2C_Pernambuco%2C_Brazil.jpg",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Man_playing_an_acoustic_brazilian_guitar_(Viol%C3%A3o)_on_Marco_Zero_Square,_Refice,_Pernambuco,_Brazil.jpg",
+    "artist": "Wilfredor",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "file": "guitar.jpg"
+  },
+  {
+    "id": "mountain",
+    "title": "File:CH.VS.Zermatt 2021-10-17 Matterhorn 8726.jpg",
+    "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/CH.VS.Zermatt_2021-10-17_Matterhorn_8726.jpg/960px-CH.VS.Zermatt_2021-10-17_Matterhorn_8726.jpg",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:CH.VS.Zermatt_2021-10-17_Matterhorn_8726.jpg",
+    "artist": "Roy Egloff",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "file": "mountain.jpg"
+  }
+]
